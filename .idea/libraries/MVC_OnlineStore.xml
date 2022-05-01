@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MVC_OnlineStore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/MVC_OnlineStore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
